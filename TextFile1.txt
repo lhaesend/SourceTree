@@ -2,3 +2,4 @@ Hello World!
 This is a second line in the file.
 Hi, my name is Lumi!
 And I'm Bram!
+Lumi wants to buld a game.
